@@ -1,10 +1,28 @@
-# Weather-Journal App Project
+# Landing Page
 
-## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+## Description
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+this is udacity nodejs expressproject
+the project main focus is on the promises functions in js 
+async and await, and using them to call api endpoint and update ui 
+for asynchronouse website.
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+## Instruction
+run 
+```shell
+command git clone https://github.com/abdulllaha/landing-page.git
+command node serve.js
+```
+then go to your browser and navigate to localhost:8080
+## Table of Contents
+- [Landing Page](#landing-page)
+- [Description](#description)
+- [Instruction](#instruction)
+- [Table of Contents](#table-of-contents)
+- [Development](#development)
+
+## Development
+javascript ES6, HTML5, CSS, nodejs 14, express
+## Resources
+Resources I used to develope the project
+- [openweather](https://home.openweathermap.org/): for weather api()
