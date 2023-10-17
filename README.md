@@ -11,7 +11,7 @@ for asynchronouse website.
 run 
 ```shell
 command git clone https://github.com/abdulllaha/fend.git
-command node serve.js
+command node server.js
 ```
 then go to your browser and navigate to localhost:8080
 ## Table of Contents
