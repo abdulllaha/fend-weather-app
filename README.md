@@ -2,15 +2,15 @@
 
 ## Description
 
-this is udacity nodejs expressproject
-the project main focus is on the promises functions in js 
-async and await, and using them to call api endpoint and update ui 
+this is a udacity nodejs express project
+the project main focus is on the asynchronouse development in js.
+promises async, and await, and using them to call api endpoint and update ui 
 for asynchronouse website.
 
 ## Instruction
 run 
 ```shell
-command git clone https://github.com/abdulllaha/landing-page.git
+command git clone https://github.com/abdulllaha/fend.git
 command node serve.js
 ```
 then go to your browser and navigate to localhost:8080
