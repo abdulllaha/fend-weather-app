@@ -1,4 +1,4 @@
-# Landing Page
+#  Weather App
 
 ## Description
 
