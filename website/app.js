@@ -1,6 +1,5 @@
 /* Global Variables */
 const baseURL = "https://api.openweathermap.org/data/2.5/weather?zip=";
-const requestForm = "https://api.openweathermap.org/data/2.5/weather?zip={zip code},{country code}&appid=";
 const apiKey = "f2d725e660954838f810e26c85f42216&units=imperial";
 const feelings = document.getElementById('feelings');
 const zip = document.getElementById('zip');
