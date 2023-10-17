@@ -15,7 +15,7 @@ command node server.js
 ```
 then go to your browser and navigate to localhost:8080
 ## Table of Contents
-- [Landing Page](#landing-page)
+- [Weather App](#weather-app)
 - [Description](#description)
 - [Instruction](#instruction)
 - [Table of Contents](#table-of-contents)
